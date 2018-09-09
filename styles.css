@@ -1,0 +1,46 @@
+/* style.css */
+body{
+  background: #f0ece2;
+  color: black;
+  font-size: 10px;
+  font-family: 'Neucha', cursive;
+}
+h1{
+  font-family: Ruslan Display;
+  color: #7d0000;
+  font-size: 30px;
+}
+h2 {
+  font-family: Ruslan Display;
+  color: #c95501;
+  font-size: 20px; 
+}
+a {
+  color: black;
+}
+.card img {
+  display: block; 
+  position: relative;
+}
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+.card p {
+  font-size: 14px;
+  padding: 15px;
+  border: 10px;
+  margin: 5px;
+  width: 250px;
+  text-align: justify; 
+}
+.card h2 {
+  font-style: bold;
+  text-align: center; 
+}
+#header h1 {
+  font-size: 50px;
